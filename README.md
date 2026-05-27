@@ -9,8 +9,6 @@ As part of the Year Up United Data Analyst Training Academy, I was assigned to w
 - **Territory 1:** East
 - **Territory 2:** West
 
-*(Replace the above with the actual territory names once you open the data files)*
-
 ## Project Objectives
 - Read, clean, and merge multiple datasets using Python (pandas)
 - Perform exploratory data analysis on sales performance between the two territories
@@ -28,7 +26,7 @@ As part of the Year Up United Data Analyst Training Academy, I was assigned to w
 - `Ellefson_sales_Analysis.ipynb` → Main Jupyter Notebook containing full analysis (Steps 1–8)
 - `Capstone_2/` → Folder containing all raw data files
 - `README.md` → Project documentation (this file)
-- `requirements.txt` → Python dependencies (if applicable)
+- `requirements.txt` → Python dependencies
 
 ## Key Deliverables
 - Full data cleaning and merging process
