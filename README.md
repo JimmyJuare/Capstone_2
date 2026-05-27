@@ -6,8 +6,8 @@ This project analyzes sales data for **EmporiUm**, a fictional student bookstore
 As part of the Year Up United Data Analyst Training Academy, I was assigned to work under **Marketing Manager See Ellefson**. This analysis focuses on comparing the two sales territories assigned to me.
 
 ## Territories Analyzed
-- **Territory 1:** 
-- **Territory 2:** [Insert Territory Name]
+- **Territory 1:** East
+- **Territory 2:** West
 
 *(Replace the above with the actual territory names once you open the data files)*
 
@@ -25,8 +25,8 @@ As part of the Year Up United Data Analyst Training Academy, I was assigned to w
 - Git & GitHub
 
 ## Repository Contents
-- `Capstone_2_Analysis.ipynb` → Main Jupyter Notebook containing full analysis (Steps 1–8)
-- `data/` → Folder containing all raw data files
+- `Ellefson_sales_Analysis.ipynb` → Main Jupyter Notebook containing full analysis (Steps 1–8)
+- `Captone_2/` → Folder containing all raw data files
 - `README.md` → Project documentation (this file)
 - `requirements.txt` → Python dependencies (if applicable)
 
