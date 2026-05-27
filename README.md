@@ -38,8 +38,7 @@ As part of the Year Up United Data Analyst Training Academy, I was assigned to w
 - 5-minute live in-class presentation
 
 ## Video Presentation
-[Watch the Project Demo Video](https://www.youtube.com/watch/your-video-link-here)  
-*(Add your Loom, YouTube, or Google Drive link here once recorded)*
+[Watch the Project Demo Video](video not completed yet)
 
 ## Live Presentation
 Sales Territory Analysis presented in class on [Date].
