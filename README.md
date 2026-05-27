@@ -26,7 +26,7 @@ As part of the Year Up United Data Analyst Training Academy, I was assigned to w
 
 ## Repository Contents
 - `Ellefson_sales_Analysis.ipynb` → Main Jupyter Notebook containing full analysis (Steps 1–8)
-- `Captone_2/` → Folder containing all raw data files
+- `Capstone_2/` → Folder containing all raw data files
 - `README.md` → Project documentation (this file)
 - `requirements.txt` → Python dependencies (if applicable)
 
