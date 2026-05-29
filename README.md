@@ -6,8 +6,8 @@ This project analyzes sales data for **EmporiUm**, a fictional student bookstore
 As part of the Year Up United Data Analyst Training Academy, I was assigned to work under **Marketing Manager See Ellefson**. This analysis focuses on comparing the two sales territories assigned to me.
 
 ## Territories Analyzed
-- **Territory 1:** East
-- **Territory 2:** West
+- **Territory 1:** Ellefsons Territory
+- **Territory 2:** Hecks Territory
 
 ## Project Objectives
 - Read, clean, and merge multiple datasets using Python (pandas)
